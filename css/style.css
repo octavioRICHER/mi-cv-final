@@ -1,0 +1,83 @@
+    nav{
+        background-color: #5D4037;
+    }
+
+    nav .nav-wrapper {
+    border-top: 7px solid rgb(56, 43, 39);
+    }
+
+    body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    }
+
+    main {
+    flex: 1 0 auto;
+    }
+
+    .page-footer{
+    background-color:#5D4037;
+    }
+    .footer-copyright{
+    background-color: rgb(56, 43, 39)!important;
+    }
+
+    .mi_logo{
+    width: 180px;
+    border: orange ridge 4px;
+    }
+
+    .imagen_perfil{
+    width: 250px;
+    border-radius: 50%;
+    }
+    .nombre{
+    color: white;
+    margin-top: 10%
+    }
+    .parallax_custom_color{
+    background:#4CAF50;
+    }
+    .imagen_parallax{
+    opacity: 0.8!important;
+    }
+    .elementos_centrados{
+    text-align: center;
+    }
+
+    .imagen_conoceme{
+    width: 280px;
+    border: orange ridge 5px;
+    padding: 3px;
+    margin-top: 28px;
+    }
+
+    .imagen_pelicula{
+    width: 280px;
+    border: orange ridge 5px;
+    padding: 3px;
+    margin-top: 28px;
+    }
+    
+    .imagen_l{
+    width: 160px;
+    border: orange ridge 5px;
+    padding: 3px;
+    margin-top: 28px;
+    }
+    
+    .fa-facebook:before {
+        content: "\f09a";
+        font-size: 80px;
+    }
+
+    .fa-instagram{
+        color: rgb(198, 43, 226);
+        font-size: 80PX;
+    }
+
+    .fa-whatsapp{
+        color: rgb(0, 149, 0);
+        font-size: 80PX;
+    }
